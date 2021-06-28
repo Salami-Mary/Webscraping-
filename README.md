@@ -6,4 +6,5 @@ pip install [instagram-scraper](https://pypi.org/project/instagram-scraper/) on 
 
 ### Notebook
 [Instagram scrapper](Instagram_scraper.py) for images
-[Google_scraper](Google_scraper.ipynb)
+
+[Google_scraper](Google_Webscraper.ipynb)
