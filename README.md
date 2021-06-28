@@ -5,4 +5,4 @@ Data collection is an important  process in the Data science field. The more dat
 pip install [instagram-scraper](https://pypi.org/project/instagram-scraper/) on Command Prompt 
 
 ### Notebook
-Instagram scrapper
+[Instagram scrapper](Instagram_scraper.ipynb)
